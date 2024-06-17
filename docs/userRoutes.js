@@ -59,7 +59,7 @@
 
 /**
  * @swagger
- * /users/orders:
+ * /users/status:
  *   get:
  *     summary: Get current user's orders
  *     tags: [Users]
